@@ -1,8 +1,8 @@
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone url-del-repositorio
-   cd nombre-del-repositorio
+   git clone https://github.com/Ninakiau/pruebaPrograAvanzadaJs.git
+   cd pruebaPrograAvanzadaJs
    ```
 
 2. **Instalar las dependencias:**
